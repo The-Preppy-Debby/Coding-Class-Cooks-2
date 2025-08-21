@@ -23,4 +23,4 @@ the cooking of the jollof rice takes 15 minutes to prep and 30 mins to cook  sta
 ### WHAT IT LOOKS LIKE
 It looks like a vibrant,reddish rice dish mostly eat with the items below.
 ### WHAT YOU CAN ADD
-Plantain,Chicken,Meat and Moimoi.
+Plantain,Chicken,Meat,moimoi and turkey.
