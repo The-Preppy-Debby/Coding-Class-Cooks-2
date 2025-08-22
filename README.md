@@ -22,7 +22,7 @@ First you  get your pepper mix combine tomato,red bell pepper,habanero pepper,ga
 the cooking of the jollof rice takes 15 minutes to prep and 30 mins to cook  stand time 12 minutes the whole thing takes 57 minutes.
 ### WHAT IT LOOKS LIKE
 
-![An exquisite delicacy you would love to try]{jollofrice.jpg}  
+![An exquisite delicacy you would love to try](jollofrice.jpg) 
 It looks like a vibrant,reddish rice dish mostly eat with the items below.
 ### WHAT YOU CAN ADD
 Plantain,Chicken,Meat, moimoi  and turkey.
