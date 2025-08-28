@@ -16,6 +16,7 @@ Fry until the sauce thickens and the oil separate.
 ## ABOUT THE RECIPE
 This is the general recipe  of jollof rice and i hope you enjoy it.
 ### LIST OF INGREDIENTS
+ginger,garlic,rice,oil,tomato paste,bayleaf,onion,meat stock,tyhme,curry,salt,pepper.
 ### PREPARATION
 First you  get your pepper mix combine tomato,red bell pepper,habanero pepper,garlic and ginger and water in a blend for the sauce. make sure to get your oil and seasoning ready you also neeed to wash your rice.
 ### THE COOKING
